@@ -2,14 +2,13 @@
 #-*- coding: utf-8 -*-
 
 #########################################################
-#     FREERADIUS CLIENTS SETTINGS - GH0ST S0FTWARE      #
+#      FREERADIUS USERS SETTINGS - GH0ST S0FTWARE       #
 ######################################################### 
 #                       CONTACT                         #
 #########################################################
 #              DEVELOPER : İSMAİL TAŞDELEN              #                       
 #        Mail Address : pentestdatabase@gmail.com       #
 # LINKEDIN : https://www.linkedin.com/in/ismailtasdelen #
-#                  Twitter : @RTiwit                    #
 #           Whatsapp : + 90 534 295 94 31               #
 #########################################################
 
@@ -20,14 +19,13 @@ import socket
 
 freeradius_clients_settings = """
 #########################################################
-#     FREERADIUS CLIENTS SETTINGS - GH0ST S0FTWARE      #
+#      FREERADIUS USERS SETTINGS - GH0ST S0FTWARE       #
 ######################################################### 
 #                       CONTACT                         #
 #########################################################
 #              DEVELOPER : İSMAİL TAŞDELEN              #                       
 #        Mail Address : pentestdatabase@gmail.com       #
 # LINKEDIN : https://www.linkedin.com/in/ismailtasdelen #
-#                  Twitter : @RTiwit                    #
 #           Whatsapp : + 90 534 295 94 31               #
 #########################################################
 """
