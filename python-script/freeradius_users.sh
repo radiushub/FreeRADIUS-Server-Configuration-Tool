@@ -1,16 +1,16 @@
 #!/usr/bin/env Python
 #-*- coding: utf-8 -*-
 
-#######################################################
-#     FREERADIUS USERS SETTINGS - GH0ST S0FTWARE      #
-####################################################### 
-#                      CONTACT                        #
-#######################################################
-#             DEVELOPER : İSMAİL TAŞDELEN             #                       
-#       Mail Address : pentestdatabase@gmail.com      #
-#                 Twitter : @RTiwit                   #
-#          Whatsapp : + 90 534 295 94 31              #
-#######################################################
+#########################################################
+#      FREERADIUS USERS SETTINGS - GH0ST S0FTWARE       #
+######################################################### 
+#                       CONTACT                         #
+#########################################################
+#              DEVELOPER : İSMAİL TAŞDELEN              #                       
+#        Mail Address : pentestdatabase@gmail.com       #
+# LINKEDIN : https://www.linkedin.com/in/ismailtasdelen #
+#           Whatsapp : + 90 534 295 94 31               #
+#########################################################
 
 import os
 import sys
@@ -26,7 +26,6 @@ freeradius_users_settings = """
 #              DEVELOPER : İSMAİL TAŞDELEN              #                       
 #        Mail Address : pentestdatabase@gmail.com       #
 # LINKEDIN : https://www.linkedin.com/in/ismailtasdelen #
-#                  Twitter : @RTiwit                    #
 #           Whatsapp : + 90 534 295 94 31               #
 #########################################################
 """
