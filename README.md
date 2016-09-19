@@ -75,4 +75,6 @@ gerekmektedir. Bunun dışında FreeRADUIS sunucu yazılımı yüklü olmalıdı
 
 Video : https://www.youtube.com/watch?v=BP8PxMf8yUk
 
+FreeRAIUS : http://freeradius.org/
+Wikipedia : https://en.wikipedia.org/wiki/FreeRADIUS
 Kaynak Kod : https://github.com/ismailtasdelen/Python-FreeRADIUS-Server-Configuration-Software
