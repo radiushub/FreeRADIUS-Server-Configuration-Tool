@@ -56,6 +56,9 @@ thentication, authorization, accounting) kapsamında olur. Yaptığım bu uygu-
 lama ise gereken konfigürasyonları linux cli den kurtarıp arayüz aracılığı
 ile adminlere kolay ve etkili bi çözüm sağlamaktadır.
 
+Not : Programı sudo yetkisi ile yetkili kullanıcı olarak çalıştırmanız
+gerekmektedir. Bunun dışında FreeRADUIS sunucu yazılımı yüklü olmalıdır.
+
 #English
 
 To get a grasp of what FreeRADIUS is, it would help to firstly understand what the concept RADIUS stands for:
@@ -71,9 +74,6 @@ Keeping an account of the usage data of these services
 FreeRADIUS: FreeRADIUS is a modular, rich in features, highly efficient in performance version, or model, of the RADIUS protocol mentioned above. The FreeRADIUS which is open source code software can run under various operating systems (AIX, Cygwin, FreeBSD, HP-UX, Linux, MAC OS-X, NetBSD, OpenBSD, Solaris gibi). With its multiple AAA servers, it has wide range applications that provide service to millions of users. The server supports LDAP (Lightweight Directory Access Protocol), SQL(Structured Query Language) and other database types and has been operating with EAP (Extensible Authentication Protocol) since 20001 and PEAP (Protected Extensible Authentication Protocol) and EAP-TTLS (EAP-Tunneled Transport Layer Security) since 2003. Currently, the FreeRADIUS supports all ID authentication protocols and data bases.
 
 The FreeRADIUS whose 2.0.0 version was released at the beginning of 2008 has its latest version, 2.1.6, since its release in September 2009.
-
-Not : Programı sudo yetkisi ile yetkili kullanıcı olarak çalıştırmanız
-gerekmektedir. Bunun dışında FreeRADUIS sunucu yazılımı yüklü olmalıdır.
 
 Video : https://www.youtube.com/watch?v=BP8PxMf8yUk
 
