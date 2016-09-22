@@ -83,6 +83,11 @@ The FreeRADIUS whose 2.0.0 version was released at the beginning of 2008 has its
 Note: To run the program as an authorized user with sudo authority
 is required. Apart from this freeraduıs server software must be installed.
 
+## How to run a program?
+```
+root@ismailtasdelen:~# python run.py
+```
+
 Video : https://www.youtube.com/watch?v=BP8PxMf8yUk
 
 FreeRAIUS : http://freeradius.org/
