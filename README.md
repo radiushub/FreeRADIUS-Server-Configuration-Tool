@@ -75,6 +75,9 @@ FreeRADIUS: FreeRADIUS is a modular, rich in features, highly efficient in perfo
 
 The FreeRADIUS whose 2.0.0 version was released at the beginning of 2008 has its latest version, 2.1.6, since its release in September 2009.
 
+Note: To run the program as an authorized user with sudo authority
+is required. Apart from this freeraduıs server software must be installed.
+
 Video : https://www.youtube.com/watch?v=BP8PxMf8yUk
 
 FreeRAIUS : http://freeradius.org/
