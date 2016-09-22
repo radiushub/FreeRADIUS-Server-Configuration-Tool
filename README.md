@@ -59,6 +59,11 @@ ile adminlere kolay ve etkili bi çözüm sağlamaktadır.
 Not : Programı sudo yetkisi ile yetkili kullanıcı olarak çalıştırmanız
 gerekmektedir. Bunun dışında FreeRADUIS sunucu yazılımı yüklü olmalıdır.
 
+## Programı nasıl çalıştırırım ?
+```
+root@ismailtasdelen:~# python run.py
+```
+
 #English
 
 To get a grasp of what FreeRADIUS is, it would help to firstly understand what the concept RADIUS stands for:
