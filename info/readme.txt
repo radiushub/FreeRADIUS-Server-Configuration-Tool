@@ -1,7 +1,5 @@
 # Python - FreeRadius Server Configuration Software
 
-![freeradius_logo](https://cloud.githubusercontent.com/assets/15425071/18670557/345614e2-7f49-11e6-86df-60b6d364354d.png)
-
 Linux işletim sistemi için geliştirilmişdir ve python programlama dili ile
 yazılmışdır. Programın amacı FreeRADIUS sunucusunu konfigürasyonunu kolay
 ve hızlı bir şekilde gerçekleştirmek.
@@ -60,9 +58,8 @@ Not : Programı sudo yetkisi ile yetkili kullanıcı olarak çalıştırmanız
 gerekmektedir. Bunun dışında FreeRADUIS sunucu yazılımı yüklü olmalıdır.
 
 ## Programı nasıl çalıştırırım ?
-```
+
 root@ismailtasdelen:~# python run.py
-```
 
 ## Kaynak
 
@@ -94,9 +91,8 @@ Note: To run the program as an authorized user with sudo authority
 is required. Apart from this freeraduıs server software must be installed.
 
 ## How to run a program?
-```
+
 root@ismailtasdelen:~# python run.py
-```
 
 ## Source
 
