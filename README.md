@@ -64,6 +64,16 @@ gerekmektedir. Bunun dışında FreeRADUIS sunucu yazılımı yüklü olmalıdı
 root@ismailtasdelen:~# python run.py
 ```
 
+## Kaynak
+
+Video : https://www.youtube.com/watch?v=BP8PxMf8yUk
+
+FreeRAIUS : http://freeradius.org/
+
+Wikipedia : https://en.wikipedia.org/wiki/FreeRADIUS
+
+Kaynak Kod : https://github.com/ismailtasdelen/Python-FreeRADIUS-Server-Configuration-Software
+
 #English
 
 To get a grasp of what FreeRADIUS is, it would help to firstly understand what the concept RADIUS stands for:
@@ -88,7 +98,7 @@ is required. Apart from this freeraduıs server software must be installed.
 root@ismailtasdelen:~# python run.py
 ```
 
-# Source
+## Source
 
 Video : https://www.youtube.com/watch?v=BP8PxMf8yUk
 
@@ -96,4 +106,4 @@ FreeRAIUS : http://freeradius.org/
 
 Wikipedia : https://en.wikipedia.org/wiki/FreeRADIUS
 
-Kaynak Kod : https://github.com/ismailtasdelen/Python-FreeRADIUS-Server-Configuration-Software
+Source Code : https://github.com/ismailtasdelen/Python-FreeRADIUS-Server-Configuration-Software
