@@ -21,18 +21,24 @@ freeradius_server_configuration_software_ico = """
 print freeradius_server_configuration_software_ico
 
 configuration_ico = """
-(1) Freeradius Clients Settings
-(2) Freeradius Users Settings
-(3) Exit
+(1) FreeRADIUS Clients Settings
+(2) FreeRADIUS Users Settings
+(3) FreeRADIUS Service Starter
+(4) Exit
 """
 
 print configuration_ico
 
-islem = input("Yapmak istediğiniz işlem numarasını giriniz : ")
+ ## Running
+def run():
+    islem = input("Yapmak istediğiniz işlem numarasını giriniz : ")
+    if islem == 1:
+        os.system("python source/freeradius_clients.py")
+    if islem == 2:
+        os.system("python source/freeradius_users.py")
+    if islem == 3:
+        os.system("python source/freeradius_service_starter.py)
+    if islem == 4
+        sys.exit()
 
-if islem == 1:
-    os.system("python source/freeradius_clients.py")
-if islem == 2:
-    os.system("python source/freeradius_users.py")
-if islem == 3
-    sys.exit()
+run()
