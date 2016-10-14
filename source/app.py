@@ -37,7 +37,7 @@ def run():
         os.system(clients_setting_file_location)
     elif islem == 2:
 	users_settings_file_location = "python source/code/freeradius_users.py";
-        os.system(users_settings_file_location )
+        os.system(users_settings_file_location)
     elif islem == 3:
 	service_starter_file_location = "python source/code/freeradius_service_starter.py";
         os.system(service_starter_file_location)
