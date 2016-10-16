@@ -27,3 +27,4 @@ clients_file = open("/etc/freeradius/clients.conf", "w")
 clients_file.write("client" + " " + nas_clients_ip + " " + "{" + "\n" + "        " + "secret" + "          " + "=" + " " + secret_name + "\n" + "        " + "shortname" + "       " + "="+ " " + shortname_name + "\n" + "}")
 loading = "Clients settings saved... ( Loading... %100 )"
 print loading
+clients_file.close()

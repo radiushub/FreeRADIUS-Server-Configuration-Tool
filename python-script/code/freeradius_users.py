@@ -48,3 +48,4 @@ users_file = open("/etc/freeradius/users", "w")
 users_file.write(" " + "DEFAULT Auth-Type := Accept, Calling-Station-Id ==" + " " + '"' + "90" + phone_number + '"' + "\n" + "          " + "Framed-IP-Address =" + " " + framed_ip_address + "\n\n" + default_text)
 loading = "Users settings saved... ( Loading... %100 )"
 print loading
+users_file.close()
