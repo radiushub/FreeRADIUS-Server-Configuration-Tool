@@ -59,6 +59,11 @@ ile adminlere kolay ve etkili bi çözüm sağlamaktadır.
 Not : Programı sudo yetkisi ile yetkili kullanıcı olarak çalıştırmanız
 gerekmektedir. Bunun dışında FreeRADUIS sunucu yazılımı yüklü olmalıdır.
 
+## Cloning an Existing Repository
+```
+root@ismailtasdelen:~# git clone https://github.com/ismailtasdelen/Python-FreeRADIUS-Server-Configuration-Software.git
+```
+
 ## Programı nasıl çalıştırırım ?
 ```
 root@ismailtasdelen:~# python run.py
