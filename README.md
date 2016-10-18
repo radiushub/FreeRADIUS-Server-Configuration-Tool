@@ -59,7 +59,7 @@ ile adminlere kolay ve etkili bi çözüm sağlamaktadır.
 Not : Programı sudo yetkisi ile yetkili kullanıcı olarak çalıştırmanız
 gerekmektedir. Bunun dışında FreeRADUIS sunucu yazılımı yüklü olmalıdır.
 
-## Cloning an Existing Repository
+## Varolan Depoyu Klonlama
 ```
 git clone https://github.com/ismailtasdelen/Python-FreeRADIUS-Server-Configuration-Software.git
 ```
@@ -97,6 +97,11 @@ The FreeRADIUS whose 2.0.0 version was released at the beginning of 2008 has its
 
 Note: To run the program as an authorized user with sudo authority
 is required. Apart from this freeraduıs server software must be installed.
+
+## Cloning an Existing Repository
+```
+git clone https://github.com/ismailtasdelen/Python-FreeRADIUS-Server-Configuration-Software.git
+```
 
 ## How to run a program?
 ```
