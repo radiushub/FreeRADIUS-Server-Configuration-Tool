@@ -61,7 +61,7 @@ gerekmektedir. Bunun dışında FreeRADUIS sunucu yazılımı yüklü olmalıdı
 
 ## Cloning an Existing Repository
 ```
-root@ismailtasdelen:~# git clone https://github.com/ismailtasdelen/Python-FreeRADIUS-Server-Configuration-Software.git
+git clone https://github.com/ismailtasdelen/Python-FreeRADIUS-Server-Configuration-Software.git
 ```
 
 ## Programı nasıl çalıştırırım ?
