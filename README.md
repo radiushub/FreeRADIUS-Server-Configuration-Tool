@@ -1,4 +1,4 @@
-# Python - FreeRadius Server Configuration Software
+# Python - FreeRADIUS Server Configuration Software
 
 ![freeradius_logo](https://cloud.githubusercontent.com/assets/15425071/18670557/345614e2-7f49-11e6-86df-60b6d364354d.png)
 
