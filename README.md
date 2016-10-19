@@ -6,7 +6,7 @@ Linux işletim sistemi için geliştirilmişdir ve python programlama dili ile
 yazılmışdır. Programın amacı FreeRADIUS sunucusunu konfigürasyonunu kolay
 ve hızlı bir şekilde gerçekleştirmek.
 
-# Turkish
+## Turkish
 
 FreeRADIUS Nedir ?
 
@@ -59,22 +59,22 @@ ile adminlere kolay ve etkili bi çözüm sağlamaktadır.
 Not : Programı sudo yetkisi ile yetkili kullanıcı olarak çalıştırmanız
 gerekmektedir. Bunun dışında FreeRADUIS sunucu yazılımı yüklü olmalıdır.
 
-## Varolan Depoyu Klonlama ( HTTP ile klonlama )
+### Varolan Depoyu Klonlama ( HTTP ile klonlama )
 ```
 git clone https://github.com/ismailtasdelen/Python-FreeRADIUS-Server-Configuration-Software.git
 ```
 
-## Varolan Depoyu Klonlama ( SSH ile klonlama )
+### Varolan Depoyu Klonlama ( SSH ile klonlama )
 ```
 git clone git@github.com:ismailtasdelen/Python-FreeRADIUS-Server-Configuration-Software.git
 ```
 
-## Programı nasıl çalıştırırım ?
+### Programı nasıl çalıştırırım ?
 ```
 root@ismailtasdelen:~# python run.py
 ```
 
-## Kaynak
+### Kaynak
 
 Video : https://www.youtube.com/watch?v=BP8PxMf8yUk
 
@@ -84,7 +84,7 @@ Wikipedia : https://en.wikipedia.org/wiki/FreeRADIUS
 
 Kaynak Kod : https://github.com/ismailtasdelen/Python-FreeRADIUS-Server-Configuration-Software
 
-#English
+## English
 
 To get a grasp of what FreeRADIUS is, it would help to firstly understand what the concept RADIUS stands for:
 
@@ -103,22 +103,22 @@ The FreeRADIUS whose 2.0.0 version was released at the beginning of 2008 has its
 Note: To run the program as an authorized user with sudo authority
 is required. Apart from this freeraduıs server software must be installed.
 
-## Cloning an Existing Repository ( Clone with HTTPS )
+### Cloning an Existing Repository ( Clone with HTTPS )
 ```
 git clone https://github.com/ismailtasdelen/Python-FreeRADIUS-Server-Configuration-Software.git
 ```
 
-## Cloning an Existing Repository ( Clone with SSH )
+### Cloning an Existing Repository ( Clone with SSH )
 ```
 git clone git@github.com:ismailtasdelen/Python-FreeRADIUS-Server-Configuration-Software.git
 ```
 
-## How to run a program?
+### How to run a program ?
 ```
 root@ismailtasdelen:~# python run.py
 ```
 
-## Source
+### Source
 
 Video : https://www.youtube.com/watch?v=BP8PxMf8yUk
 
