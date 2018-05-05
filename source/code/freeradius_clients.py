@@ -8,16 +8,17 @@ import socket
 
 freeradius_clients_settings = """
 #########################################################
-#      FREERADIUS USERS SETTINGS - GH0ST S0FTWARE       #
-######################################################### 
-#                       CONTACT                         #
+#            FREERADIUS USERS SETTINGS T00L             #
 #########################################################
-#              DEVELOPER : İSMAİL TAŞDELEN              #                       
+#                       C0NTACT                         #
+#########################################################
+#              DEVELOPER : İSMAİL TAŞDELEN              #
 #        Mail Address : pentestdatabase@gmail.com       #
 # LINKEDIN : https://www.linkedin.com/in/ismailtasdelen #
-#           Whatsapp : + 90 534 295 94 31               #
+#       GitHub : https://github.com/ismailtasdelen/     #
 #########################################################
 """
+
 print freeradius_clients_settings
 os.system("/etc/freeradius/clients.conf")
 nas_clients_ip = raw_input("Clients ip adresini giriniz : ")
