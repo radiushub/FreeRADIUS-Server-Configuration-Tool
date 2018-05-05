@@ -7,14 +7,14 @@ import sys
 
 freeradius_server_configuration_software_ico = """
 #############################################################
-# FREERADIUS SERVER CONFIGURATION SOFTWARE - GH0ST S0FTWARE #
+#           FREERADIUS SERVER C0NFIGURATI0N T00L            #
 #############################################################
-#                         CONTACT                           #
+#                         C0NTACT                           #
 #############################################################
 #                DEVELOPER : İSMAİL TAŞDELEN                #
-#          Mail Address : pentestdatabase@gmail.com         #
+#          Mail Address : ismailtasdelen@protonmail.com     #
 #   LINKEDIN : https://www.linkedin.com/in/ismailtasdelen   #
-#             Whatsapp : + 90 534 295 94 31                 #
+#         GitHub : https://github.com/ismailtasdelen/       #
 #############################################################
 """
 
