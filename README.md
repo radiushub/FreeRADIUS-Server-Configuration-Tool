@@ -61,12 +61,12 @@ gerekmektedir. Bunun dışında FreeRADUIS sunucu yazılımı yüklü olmalıdı
 
 ### Varolan Depoyu Klonlama ( HTTP ile klonlama )
 ```
-git clone https://github.com/ismailtasdelen/Python-FreeRADIUS-Server-Configuration-Software.git
+git clone https://github.com/ismailtasdelen/FreeRADIUS-Server-Configuration-Tool.git
 ```
 
 ### Varolan Depoyu Klonlama ( SSH ile klonlama )
 ```
-git clone git@github.com:ismailtasdelen/Python-FreeRADIUS-Server-Configuration-Software.git
+git clone git@github.com:ismailtasdelen/FreeRADIUS-Server-Configuration-Tool.git
 ```
 
 ### Programı nasıl çalıştırırım ?
@@ -105,12 +105,12 @@ is required. Apart from this freeraduıs server software must be installed.
 
 ### Cloning an Existing Repository ( Clone with HTTPS )
 ```
-git clone https://github.com/ismailtasdelen/Python-FreeRADIUS-Server-Configuration-Software.git
+git clone https://github.com/ismailtasdelen/FreeRADIUS-Server-Configuration-Tool.git
 ```
 
 ### Cloning an Existing Repository ( Clone with SSH )
 ```
-git clone git@github.com:ismailtasdelen/Python-FreeRADIUS-Server-Configuration-Software.git
+git clone git@github.com:ismailtasdelen/FreeRADIUS-Server-Configuration-Tool.git
 ```
 
 ### How to run a program ?
@@ -126,4 +126,4 @@ FreeRAIUS : http://freeradius.org/
 
 Wikipedia : https://en.wikipedia.org/wiki/FreeRADIUS
 
-Source Code : https://github.com/ismailtasdelen/Python-FreeRADIUS-Server-Configuration-Software
+Source Code : https://github.com/ismailtasdelen/FreeRADIUS-Server-Configuration-Tool
