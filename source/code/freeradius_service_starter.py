@@ -6,14 +6,14 @@ import time
 
 freeradius_service_settings_ico = """
 #########################################################
-#      FREERADIUS SERVICE LAUNCHER - GH0ST S0FTWARE     #
+#           FREERADIUS SERVICE LAUNCHER T00L            #
 #########################################################
-#                       CONTACT                         #
+#                       C0NTACT                         #
 #########################################################
 #              DEVELOPER : İSMAİL TAŞDELEN              #
 #        Mail Address : pentestdatabase@gmail.com       #
 # LINKEDIN : https://www.linkedin.com/in/ismailtasdelen #
-#           Whatsapp : + 90 534 295 94 31               #
+#       GitHub : https://github.com/ismailtasdelen/     #
 #########################################################
 """
 
