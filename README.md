@@ -37,9 +37,9 @@ git clone git@github.com:ismailtasdelen/FreeRADIUS-Server-Configuration-Tool.git
 root@ismailtasdelen:~# python run.py
 ```
 
-### Source
+### Source :
 
-#### Video : https://www.youtube.com/watch?v=BP8PxMf8yUk
+#### Video : https://www.youtube.com/watch?v=AW6AmniZFWw
 
 #### FreeRAIUS : http://freeradius.org/
 
