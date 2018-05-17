@@ -39,10 +39,14 @@ root@ismailtasdelen:~# python run.py
 
 ### Source :
 
-#### Video : https://www.youtube.com/watch?v=AW6AmniZFWw
+##### Video : https://www.youtube.com/watch?v=AW6AmniZFWw
 
-#### FreeRAIUS : http://freeradius.org/
+##### FreeRAIUS : http://freeradius.org/
 
-#### Wikipedia : https://en.wikipedia.org/wiki/FreeRADIUS
+##### Wikipedia : https://en.wikipedia.org/wiki/FreeRADIUS
 
-#### Source Code : https://github.com/ismailtasdelen/FreeRADIUS-Server-Configuration-Tool
+##### Source Code : https://github.com/ismailtasdelen/FreeRADIUS-Server-Configuration-Tool
+
+### Published Website :
+
+#### Kitploit - https://www.kitploit.com/2018/05/freeradius-server-configuration-tool.html
