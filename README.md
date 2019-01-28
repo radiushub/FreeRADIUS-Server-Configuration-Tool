@@ -50,3 +50,15 @@ root@ismailtasdelen:~# python run.py
 ### Published Website :
 
 #### Kitploit - https://www.kitploit.com/2018/05/freeradius-server-configuration-tool.html
+
+### Donate!
+
+Support the authors:
+
+#### Paypal:
+
+https://paypal.me/ismailtsdln
+
+#### LiberaPay:
+
+<noscript><a href="https://liberapay.com/ismailtasdelen/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
