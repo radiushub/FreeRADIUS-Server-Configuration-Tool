@@ -24,12 +24,12 @@ is required. Apart from this freeraduıs server software must be installed.
 
 ### Cloning an Existing Repository ( Clone with HTTPS )
 ```
-git clone https://github.com/ismailtasdelen/FreeRADIUS-Server-Configuration-Tool.git
+git clone https://github.com/radiushub/FreeRADIUS-Server-Configuration-Tool.git
 ```
 
 ### Cloning an Existing Repository ( Clone with SSH )
 ```
-git clone git@github.com:ismailtasdelen/FreeRADIUS-Server-Configuration-Tool.git
+git clone git@github.com:radiushub/FreeRADIUS-Server-Configuration-Tool.git
 ```
 
 ### How to run a program ?
